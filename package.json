@@ -3,14 +3,18 @@
   "displayName": "countCP",
   "description": "Counts how many times you copy and paste in VS Code.",
   "version": "1.0.0",
-  "publisher": "Animesh Gupta",
+  "publisher": "aniimessh",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
     "Notebooks"
   ],
-  "keywords": ["copy", "paste", "tracker"],
+  "keywords": [
+    "copy",
+    "paste",
+    "tracker"
+  ],
   "activationEvents": [
     "*"
   ],
@@ -18,6 +22,7 @@
     "type": "git",
     "url": "https://github.com/yourusername/countcp"
   },
+  "icon": "images/icon.jpg",
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [

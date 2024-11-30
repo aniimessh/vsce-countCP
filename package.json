@@ -2,7 +2,7 @@
   "name": "countcp",
   "displayName": "countCP",
   "description": "Counts how many times you copy and paste in VS Code.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "aniimessh",
   "engines": {
     "vscode": ">=1.0.0"
